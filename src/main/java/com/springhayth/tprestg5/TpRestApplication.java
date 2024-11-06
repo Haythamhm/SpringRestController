@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TpRestG5Application {
+public class TpRestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TpRestG5Application.class, args);
+        SpringApplication.run(TpRestApplication.class, args);
     }
 
 }
